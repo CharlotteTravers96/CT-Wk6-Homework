@@ -1,0 +1,73 @@
+h1 {
+  text-align: left;
+  font-size: 40px;
+  color: #006ec5;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  margin-top: 20px;
+}
+h2 {
+  text-align: left;
+  font-size: 20px;
+  color: #006ec5;
+  font-family: "Poppins", sans-serif;
+}
+h3 {
+  text-align: left;
+  font-size: 30px;
+  color: black;
+  font-family: "Poppins", sans-serif;
+}
+h4 {
+  text-align: left;
+  font-size: 20px;
+  color: black;
+  font-weight: lighter;
+  font-family: "Poppins", sans-serif;
+}
+h5 {
+  text-align: left;
+  font-size: 20px;
+  color: black;
+  font-weight: lighter;
+  font-family: "Poppins", sans-serif;
+}
+p {
+  text-align: left;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  margin: 0 auto;
+}
+day {
+  text-align: center;
+  display: inline-block;
+  font-family: "Poppins", sans-serif;
+  font-size: 15px;
+  margin: 0 auto;
+}
+.temp {
+  text-align: center;
+  margin: 0 auto;
+  display: inline-block;
+  font-family: "Poppins", sans-serif;
+  color: #006ec5;
+  font-size: 20px;
+}
+.temperature {
+  text-align: center;
+  margin: 0 auto;
+  display: inline-block;
+  font-family: "Poppins", sans-serif;
+  color: #006ec5;
+  font-size: 20px;
+}
+.btn-primary {
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
+.city {
+  text-align: left;
+  font-size: 20px;
+  color: #006ec5;
+  font-family: "Poppins", sans-serif;
+}
